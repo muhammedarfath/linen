@@ -11,7 +11,7 @@
 /*.pyd
 /*.db
 /*.db-journal
-/.env
+/env
 /.venv/
 /venv/
 /env/
