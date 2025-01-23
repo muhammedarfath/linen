@@ -1,0 +1,46 @@
+# Python / Django
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.db-journal
+.env
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+.eggs/
+*.egg-info/
+instance/
+.webassets-cache
+
+# Django migrations
+*/migrations/*
+
+# Node.js / React
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+build/
+dist/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+.DS_Store
+Thumbs.db
